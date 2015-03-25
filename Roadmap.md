@@ -17,7 +17,7 @@
 
 ## Development Workflow
 - Feature based by user stories
-- Code changes always related to ticket
+- Code changes always related to a ticket
   - every change hase behavior and this keep it 
 - Production and Development env same vagrant / docker
 - Build automation CI and CD
