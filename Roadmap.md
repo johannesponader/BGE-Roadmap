@@ -9,7 +9,7 @@
 - No plain content in html
   - every string comes from a language file/api
   - changes in the content without code changes
-- Styleguid for the angular app
+- styleguide for the angular app
   - modulare app 
 - documentation 
 - more directives and services -> thin controller
