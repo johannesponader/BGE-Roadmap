@@ -18,14 +18,14 @@
 ## Development Workflow
 - Feature based by user stories
 - Code changes always related to a ticket
-  - every change hase behavior and this keep it 
-- Production and Development env same vagrant / docker
+  - every change has behavior
+- Production and development env same vagrant / docker
 - Build automation CI and CD
 
 ## Production
 - SaaS
-  - Heruku or simelar
+  - Heroku or similar
   - scalable
 - NewRelic (performance)
 - Loggly (log management)
-- Mixedpanel (verify user stories)
+- Mixpanel (verify user stories)
